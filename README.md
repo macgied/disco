@@ -11,3 +11,6 @@ The iOS app can be run on a Mac with the OSX built in Simulator application. But
 * 🛠 Xcode 7 or newer
 * 📱 iPhone 6/6s running iOS 9 or newer
 * 🔄 Lightning cable to sideload the app via Xcode to your iPhone
+
+
+###### 🚧🚧🚧 Work in progress...   ☕️    🚧🚧🚧
