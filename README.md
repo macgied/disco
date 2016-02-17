@@ -13,4 +13,9 @@ The iOS app can be run on a Mac with the OSX built in Simulator application. But
 * 🔄 Lightning cable to sideload the app via Xcode to your iPhone
 
 
+
+
+
+
+
 ###### 🚧🚧🚧 Work in progress...   ☕️    🚧🚧🚧
